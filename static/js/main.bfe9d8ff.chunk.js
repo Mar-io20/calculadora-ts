@@ -1,2 +1,0 @@
-(this["webpackJsonpcalculadora-ts"]=this["webpackJsonpcalculadora-ts"]||[]).push([[0],{9:function(c,e,t){"use strict";t.r(e);var a=t(1),r=t.n(a),n=t(3),s=t.n(n),d=t(0);var l=function(){return Object(d.jsx)("div",{className:"App",children:Object(d.jsx)("p",{children:"Calculadora"})})};s.a.render(Object(d.jsx)(r.a.StrictMode,{children:Object(d.jsx)(l,{})}),document.getElementById("root"))}},[[9,1,2]]]);
-//# sourceMappingURL=main.bfe9d8ff.chunk.js.map
